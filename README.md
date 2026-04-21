@@ -1,7 +1,7 @@
 Hi There 👋
 ==============================================================================================================================
 
-As a software engineering student, my keen interest in programming languages ​has led me to explore areas like Data Science, Machine Learning, Artificial Intelligence, Mobile, Project Management, and technologies like Python, jypiter notebook, sql, Flutter/Dart, Firebase. I aim to further refine my project development process and gain more experience by putting it into practice.
+As a software engineering student, my keen interest in programming languages ​has led me to explore areas like Data Science, Machine Learning, Artificial Intelligence, Mobile development, Project Management, and technologies like Python, jupyter notebook, SQL, Flutter/Dart, Firebase. I aim to further refine my project development process and gain more experience by putting it into practice.
 
 
 
